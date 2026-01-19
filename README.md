@@ -10,3 +10,8 @@ Day 1:
 - Reading CSV files
 - Data exploration
 - Feature and target separation (X, y)
+## Day 3
+- Encoded categorical variables
+- Prepared features and target
+- Train–test split
+ 
