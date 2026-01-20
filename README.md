@@ -14,4 +14,8 @@ Day 1:
 - Encoded categorical variables
 - Prepared features and target
 - Train–test split
- 
+ ## Day 4
+- Trained first ML model (Logistic Regression)
+- Made predictions
+- Evaluated accuracy
+
