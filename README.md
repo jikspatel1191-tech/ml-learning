@@ -26,5 +26,9 @@ Day 1:
 - Trained Decision Tree model
 - Evaluated performance
 - Compared with Logistic Regression
+## Day 7
+- Trained Random Forest model
+- Compared multiple ML models
+- Selected best-performing model
 
 
