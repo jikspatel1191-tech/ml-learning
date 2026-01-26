@@ -22,5 +22,9 @@ Day 1:
 - Evaluated ML model
 - Confusion matrix
 - Classification report
+## Day 6
+- Trained Decision Tree model
+- Evaluated performance
+- Compared with Logistic Regression
 
 
