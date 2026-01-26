@@ -18,4 +18,9 @@ Day 1:
 - Trained first ML model (Logistic Regression)
 - Made predictions
 - Evaluated accuracy
+ ## Day 5
+- Evaluated ML model
+- Confusion matrix
+- Classification report
+
 
